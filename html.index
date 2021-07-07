@@ -1,43 +1,18 @@
 <!DOCTYPE html>
-02
 <html>
-03
   <head>
-04
     <meta charset="utf-8">
-05
- 
-06
     <title>Our superheroes</title>
-07
- 
-08
     <link href="https://fonts.googleapis.com/css?family=Faster+One" rel="stylesheet">
-09
     <link rel="stylesheet" href="style.css">
-10
   </head>
-11
- 
-12
   <body>
-13
       <!-- This is where you fill the title and hometown information on the page -->
-14
       <header>
-15
       </header>
-16
-       
-17
       <!-- This is where you fill the information about the superheroes on the page -->
-18
- 
-19
       <section>
-20
       </section>
 <script src="scripts/heroes.js"></script>
   </body>
-22
 </html>
